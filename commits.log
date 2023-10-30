@@ -1,0 +1,100 @@
+commit 1e407926517b72e76d466b5ac668c749428cf2e9
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:43:19 2023 -0600
+
+    Adding two paragraphs with change in comment
+
+commit 5105c0ffc0785f437904ac52cb17f7b0ea0948bb
+Merge: 350d863 9c97a71
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:40:45 2023 -0600
+
+    MERGE resolve
+
+commit 350d8632288c3610ce50aae9e6491a9aba185fc2
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:29:12 2023 -0600
+
+    Adding seasons with date
+
+commit 9c97a71ec335f7692b13256c245e799bdbd48bde
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:29:12 2023 -0600
+
+    Adding seasons
+
+commit 2d888d1585b57f4c219d3aebb8aba32f9a17f84a
+Merge: 434dabc 8fe9f15
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:18:36 2023 -0600
+
+    Resolving merge conflict in html file
+
+commit 8fe9f15e3790466bccddab3d7039164ad992a386
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:14:09 2023 -0600
+
+    Adding index.js to html
+
+commit 434dabcd1ba3ce349bff92bc505d2bdca16ebed6
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:12:25 2023 -0600
+
+    Added an unordered list in html
+
+commit bc94da7e145063c397d88a215350ffb97a78ab34
+Merge: c46af84 284bea9
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:06:12 2023 -0600
+
+    Merge branch 'js'
+
+commit 284bea9acadb827687ead747b11575139af35993
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 11:03:03 2023 -0600
+
+    Create index.js
+
+commit c46af845143d71ab29325ce5cc5a50aa564d66b1
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 10:59:40 2023 -0600
+
+    CREATE styles file
+
+commit 10dccdf70b49e8ea10879a85fcf5402c797532db
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Mon Oct 30 10:54:08 2023 -0600
+
+    Create index.html
+
+commit 2fa843fee7e36f24cc010063af0404ab2a8055b0
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Sun Oct 29 23:59:16 2023 -0600
+
+    UPDATE gitignore
+
+commit 916a993b706b1ed92ec5e821c2fdf8612f439c3b
+Author: Carlos López <84477470+carlosberserker01@users.noreply.github.com>
+Date:   Sun Oct 29 17:36:51 2023 -0600
+
+    Create LICENSE
+    
+    Creating repository licence
+
+commit eb40beafc4f110c3b5445b0a0927ab5dd7a7b776
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Sun Oct 29 17:32:47 2023 -0600
+
+    adding an extra line to README.md
+
+commit 7925116efb077256291b9bfe12e7c2d7cf11ac16
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Sun Oct 29 17:24:17 2023 -0600
+
+    Add content to README.md
+
+commit d74eeacf1f45d7771a1c400dbc9cf264b216a7eb
+Author: carlosberserker01 <carlosberserker01@gmail.com>
+Date:   Sun Oct 29 17:20:54 2023 -0600
+
+    First commit 😀

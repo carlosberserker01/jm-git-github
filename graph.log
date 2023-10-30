@@ -1,0 +1,23 @@
+* 1e40792 Adding two paragraphs with change in comment
+*   5105c0f MERGE resolve
+|\  
+| * 9c97a71 Adding seasons
+* | 350d863 Adding seasons with date
+|/  
+*   2d888d1 Resolving merge conflict in html file
+|\  
+| * 8fe9f15 Adding index.js to html
+* | 434dabc Added an unordered list in html
+* |   bc94da7 Merge branch 'js'
+|\ \  
+| * | 284bea9 Create index.js
+* | | c46af84 CREATE styles file
+| |/  
+|/|   
+* | 10dccdf Create index.html
+|/  
+* 2fa843f UPDATE gitignore
+* 916a993 Create LICENSE
+* eb40bea adding an extra line to README.md
+* 7925116 Add content to README.md
+* d74eeac First commit 😀
